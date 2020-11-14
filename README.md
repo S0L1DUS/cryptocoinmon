@@ -1,16 +1,3 @@
-![logo](https://raw.githubusercontent.com/RDCH106/pycoinmon/master/logo.png)
-
-**⚠️ Pycoinmon will be out of service until the migration to the new CoinCap API is performed**
-
-# About pyCOINMON
-
-[![PyPI](https://img.shields.io/pypi/v/pycoinmon.svg)](https://pypi.python.org/pypi/pycoinmon)
-[![PyPI](https://img.shields.io/pypi/pyversions/pycoinmon.svg)](https://pypi.python.org/pypi/pycoinmon)
-[![PyPI](https://img.shields.io/pypi/l/pycoinmon.svg)](https://github.com/RDCH106/pycoinmon/blob/master/LICENSE)
-[![Build Status](https://travis-ci.org/RDCH106/pycoinmon.svg?branch=master)](https://travis-ci.org/RDCH106/pycoinmon)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/30fca0e3463649f88584cd89c118eac2)](https://www.codacy.com/app/RDCH106/pycoinmon?utm_source=github.com&utm_medium=referral&utm_content=RDCH106/pycoinmon&utm_campaign=badger)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-😄-1EAEDB.svg)](https://saythanks.io/to/RDCH106)
-
 🐍 Python Port 🐍 Based on [COINMON](https://github.com/bichenkk/coinmon)
 
 > 💰 Cryptocurrency price ticker CLI.
