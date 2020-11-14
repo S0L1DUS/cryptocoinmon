@@ -5,31 +5,21 @@
 Check cryptocurrencies' prices, changes on your console.
 Best CLI tool for those who are both **Crypto investors** and **Engineers**.
 
-All data comes from [coinmarketcap.com](https://coinmarketcap.com/) APIs.
-
 ## Installation
 
-You can install or upgrade pycoinmon with:
-
-`$ pip install pycoinmon --upgrade`
-
-Or you can install from source with:
+Install from source with:
 
 ```
-$ git clone https://github.com/RDCH106/pycoinmon.git --recursive
-$ cd pycoinmon
+$ git clone https://github.com/S0L1DUS/cryptomon.git --recursive
+$ cd cryptomon
 $ pip install .
 ```
-
-If you are Windows user, you can download binaries of latest release from here:
-
-https://github.com/RDCH106/pycoinmon/releases/latest
 
 ## Usage
 
 To check the top 10 cryptocurrencies ranked by their market cap, simply execute
 ```
-$ pycoinmon
+$ cryptomon
 ```
 
 ### Options
