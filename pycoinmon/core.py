@@ -3,9 +3,9 @@
 import argparse
 from requests import get
 from tabulate import tabulate
-from pycoinmon.common import process_data, find_data, Colors
-from pycoinmon.ascii import ascii_title, process_title
-from pycoinmon.metadata import Metadata
+from cryptomon.common import process_data, find_data, Colors
+from cryptomon.ascii import ascii_title, process_title
+from cryptomon.metadata import Metadata
 #from terminaltables import AsciiTable
 from colorama import init, deinit
 from pyspin.spin import make_spin, Spin1
@@ -14,7 +14,7 @@ import time
 import sys
 
 
-class PyCoinmon(object):
+class cryptomon(object):
 
     def __init__(self):
         if 'PYCHARM_HOSTED' not in os.environ:  # Exclude PyCharm IDE from colorama init
@@ -110,5 +110,5 @@ class PyCoinmon(object):
 
 
 if __name__ == "__main__":
-    pycoinmon = PyCoinmon()
-    pycoinmon.run()
+    cryptomon = cryptomon()
+    cryptomon.run()

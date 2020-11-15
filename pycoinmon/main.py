@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-import pycoinmon.core
+import cryptomon.core
 
 
 def main():
-    pycoinmon.core.PyCoinmon().run()
+    cryptomon.core.cryptomon().run()

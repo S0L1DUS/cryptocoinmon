@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
 # Execute with:
-# $ python -m pycoinmon (2.7+)
+# $ python -m cryptomon (2.7+)
 
-import pycoinmon.main
+import cryptomon.main
 
 if __name__ == "__main__":
-    pycoinmon.main.main()
+    cryptomon.main.main()

@@ -1,8 +1,8 @@
 import unittest
-import pycoinmon.common as common
+import cryptomon.common as common
 
 
-class TestPycoinmon(unittest.TestCase):
+class Testcryptomon(unittest.TestCase):
 
     def setUp(self):
         self.response = [
